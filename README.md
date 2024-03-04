@@ -30,3 +30,8 @@ This repository contains code for implementing supervised regression learning an
 - Seaborn: For data visualization, including pair plots and scatter plots.
 - Matplotlib: For additional data visualization and plotting regression lines.
 - Scikit-learn: For implementing regression and classification models, including linear regression, logistic regression, and Gaussian Naive Bayes.
+
+
+Image for example if the file is too big to load: 
+
+![Uploading Example.png…]()
