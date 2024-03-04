@@ -34,4 +34,5 @@ This repository contains code for implementing supervised regression learning an
 
 Image for example if the file is too big to load: 
 
-![Uploading Example.png…]()
+![Example](https://github.com/LasseMD/ML-Regression-and-Classification/assets/117566079/ee8f53f6-143d-4c1a-b52b-4b6e7f8e9932)
+
